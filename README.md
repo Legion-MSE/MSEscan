@@ -11,7 +11,7 @@ Para que funcione esta herramienta es esencial tener la librería de Nmap para P
 ·Instalación
 -----------
 - pip install python-nmap
-- git clone 
+- git clone https://github.com/Legion-MSE/MSEscan.git
 - cd MSEscan
 - python3 MSEscan.py
 
