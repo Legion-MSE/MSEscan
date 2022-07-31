@@ -7,3 +7,11 @@ IMPORTANTE!
 Para que funcione esta herramienta es esencial tener la librería de Nmap para Python. La puedes instalar con el siguiente comando:
 
 --> pip install python-nmap
+
+·Instalación
+-----------
+- pip install python-nmap
+- git clone 
+- cd MSEscan
+- python3 MSEscan.py
+
